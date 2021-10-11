@@ -56,7 +56,7 @@ Superuser will be created successfully
 
 #### Make database migrations
 
-Django has sqlite database by default. If you want you can any sql or nosql database too. In this project I have used sqlite db.
+Django has sqlite database by default. If you want you can use any sql or nosql database too. In this project I have used sqlite db.
 
 ```
 python manage.py makemigrations movierecommender
