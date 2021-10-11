@@ -1,8 +1,8 @@
 ### Preview of how the app looks like
 
-![SS1](/dmr(1).png )
+![SS1](https://github.com/sreelakshmig009/Movie-Recommender-Web-App-with-Django/blob/main/dmr%20(1).png )
 
-![SS2](/dmr(2).png)
+![SS2](https://github.com/sreelakshmig009/Movie-Recommender-Web-App-with-Django/blob/main/dmr%20(2).png)
 
 ### Steps to run the Web App in your local ystem
 
